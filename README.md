@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Screenshot
-![alt text](vid.gif)
+![alt text](video/vid.gif)
 
 
 
